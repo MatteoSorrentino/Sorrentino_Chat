@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorrentino_Chat_Client", "Sorrentino_Chat_Client\Sorrentino_Chat_Client.csproj", "{D52F9077-AD52-4EC9-BDA3-314A0938B388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorrentino_Chat_Server", "Sorrentino_Chat_Server\Sorrentino_Chat_Server.csproj", "{3E84C332-D453-44A6-9959-FBAA093CAF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorrentino_SocketAsyncLib", "Sorrentino_SocketAsyncLib\Sorrentino_SocketAsyncLib.csproj", "{B852905C-FD3D-4794-BC08-1E38921E5D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52F9077-AD52-4EC9-BDA3-314A0938B388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52F9077-AD52-4EC9-BDA3-314A0938B388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52F9077-AD52-4EC9-BDA3-314A0938B388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52F9077-AD52-4EC9-BDA3-314A0938B388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E84C332-D453-44A6-9959-FBAA093CAF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E84C332-D453-44A6-9959-FBAA093CAF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E84C332-D453-44A6-9959-FBAA093CAF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E84C332-D453-44A6-9959-FBAA093CAF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B852905C-FD3D-4794-BC08-1E38921E5D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B852905C-FD3D-4794-BC08-1E38921E5D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B852905C-FD3D-4794-BC08-1E38921E5D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B852905C-FD3D-4794-BC08-1E38921E5D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BA42B5-5B55-47D9-AD29-F10865F534AC}
+	EndGlobalSection
+EndGlobal
